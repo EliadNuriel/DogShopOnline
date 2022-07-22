@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "809094417145",
+    "project_id": "dogshop-62927",
+    "storage_bucket": "dogshop-62927.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809094417145:android:d1d2eab47c0691edfbf028",
+        "android_client_info": {
+          "package_name": "com.example.dog_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809094417145-i8vldte9igtpuljjmc804vq592pn7rbr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dog_app",
+            "certificate_hash": "0c94ad828c6e49d07fb5b809cf1f78e2c38d15a9"
+          }
+        },
+        {
+          "client_id": "809094417145-l97p98dtsvkku8h8b1rsv7b51g81cg5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIxG6wLlnkjgqBlSlgfDaFYEYiYlIT7Ug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809094417145-l97p98dtsvkku8h8b1rsv7b51g81cg5v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
